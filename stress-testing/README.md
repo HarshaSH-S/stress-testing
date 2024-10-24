@@ -1,1 +1,1 @@
-# cp-contest-env
+# stress-testing
